@@ -21,7 +21,7 @@ $profile->setFavoriteQuote('To see a world in a grain of sand, And a heaven in a
     <title>Profile: <?php echo $profile->getCompleteName(); ?></title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
     <style>
-        /* Custom style to center content vertically */
+        /* To center the box */
         html, body {
             height: 100%;
         }
